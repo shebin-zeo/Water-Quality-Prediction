@@ -27,4 +27,4 @@ This project uses machine learning to predict the quality of water based on seve
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/water-quality-prediction.git
+git clone https://github.com/shebin-zeo/water-quality-prediction.git
